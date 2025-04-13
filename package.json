@@ -255,7 +255,7 @@
     "@grafana/runtime": "workspace:*",
     "@grafana/scenes": "0.0.4",
     "@grafana/schema": "workspace:*",
-    "@grafana/ui": "workspace:*",
+    "@grafana/ui": "6.3.2",
     "@jaegertracing/jaeger-ui-components": "workspace:*",
     "@kusto/monaco-kusto": "5.3.6",
     "@leeoniya/ufuzzy": "0.9.0",

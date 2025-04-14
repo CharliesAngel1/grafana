@@ -252,7 +252,7 @@
     "@grafana/google-sdk": "0.0.4",
     "@grafana/lezer-logql": "0.1.1",
     "@grafana/monaco-logql": "^0.0.6",
-    "@grafana/runtime": "workspace:*",
+    "@grafana/runtime": "6.3.2",
     "@grafana/scenes": "0.0.4",
     "@grafana/schema": "workspace:*",
     "@grafana/ui": "workspace:*",

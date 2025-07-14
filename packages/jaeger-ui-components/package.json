@@ -34,7 +34,7 @@
     "@grafana/data": "9.4.0-pre",
     "@grafana/e2e-selectors": "9.4.0-pre",
     "@grafana/runtime": "9.4.0-pre",
-    "@grafana/ui": "9.4.0-pre",
+    "@grafana/ui": "9.4.1",
     "chance": "^1.0.10",
     "classnames": "^2.2.5",
     "combokeys": "^3.0.0",
